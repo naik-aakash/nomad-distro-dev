@@ -165,7 +165,7 @@ keycloak:
 
 After the initial setup, here’s how to manage your daily development tasks.
 
-1. Update the environment (This step updates the submodules and installs the necessary dependencies):
+1. Commit any changes and update the environment (This step updates the submodules and installs the necessary dependencies):
 
    ```bash
    uv run poe setup
